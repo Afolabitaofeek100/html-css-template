@@ -21,7 +21,7 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/moshoodabdullahi/html-css-template.git
+git clone https://github.com/afolabitaofeek/html-css-template.git
 ```
 
 - Install Dependencies
@@ -69,8 +69,8 @@ yarn hint
 
 ## 👤 Author
 
-- Github: [@moshoodabdullahi](https://github.com/moshoodabdullahi)
-- Linkedin: [@moshoodabdullahi](https://www.linkedin.com/in/moshoodabdullahi/)
+- Github: [@afolabitaofeek](https://github.com/afolabitaofeek)
+- Linkedin: [@afolabitaofeek](https://www.linkedin.com/in/afolabitaofeek/)
 
 ## 🤝 Contributing
 
